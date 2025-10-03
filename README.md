@@ -19,7 +19,7 @@ The entire project is contained in a **single `index.html` file** with no extern
 ### File Structure
 
 ```
-/Users/davidjm/temp/bia/
+bia/
 ├── index.html          # Complete landing page (HTML + CSS + JavaScript)
 └── README.md           # This file
 ```
